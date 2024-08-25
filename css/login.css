@@ -1,0 +1,26 @@
+body{
+    background-image:url(../image/carousel-2.jpg) ;
+}
+.titre{
+    font-size: 56px;
+    color:rgb(47, 49, 47);
+    text-shadow: 2px 2px 1px;
+    font-weight: bold;
+    font-family: 'Bernard MT Condensed','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.boutton{
+    margin: 16px;
+    width: 100px;
+    height: 48px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.boutton:hover{
+    color:black;
+    background-color: rgb(47, 243, 60);
+    border: none;
+    border-radius: 8px;
+    transition: 1s;   
+}
+.soratra{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}

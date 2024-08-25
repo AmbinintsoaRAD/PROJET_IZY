@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content:center ;
+    margin-top: 200px;
+    background-image:url(../image/carousel-2.jpg) ;
+}
+.izy{
+    background-color: rgba(234, 228, 228, 0.082);
+    position: absolute;
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+}
+.choix{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.lien{
+    background-color: rgb(37, 150, 165);
+    width: 140px;
+    height: 50px;
+    padding:10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.annuler{
+    background-color: rgba(235, 57, 57, 0.929);
+}
+h1{
+    font-size: 20px;
+}
+
+
+.div ul .lien a{
+    color:rgb(23, 18, 18);
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-transform: uppercase;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+.div{
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
